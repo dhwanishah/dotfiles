@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/igneel/Pictures/Wallpapers/android.jpg' '/home/igneel/Pictures/Wallpapers/abtsract_tunnel-wide.jpg' '/home/igneel/Pictures/Wallpapers/pain.png' '/home/igneel/Pictures/Wallpapers/cubes_abstract-wide.jpg' '/home/igneel/Pictures/Wallpapers/piccalo.jpg' 
